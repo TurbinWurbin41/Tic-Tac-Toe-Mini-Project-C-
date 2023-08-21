@@ -29,6 +29,7 @@ void Input()
         else
         {
              cout << "Field is already in use. Please choose another field." << endl;
+            Input();
         }
 }
     else if (a == 2)
@@ -38,6 +39,7 @@ void Input()
         else
         {
             cout << "Field is already in use. Please choose another field." << endl;
+            Input();
         }
     }
     else if (a == 3)
@@ -47,6 +49,7 @@ void Input()
         else
         {
             cout << "Field is already in use. Please choose another field." << endl;
+            Input();
         }
 
     }
@@ -57,6 +60,7 @@ void Input()
         else
         {
             cout << "Field is already in use. Please choose another field." << endl;
+            Input();
         }
     }
     else if (a == 5)
@@ -66,6 +70,7 @@ void Input()
         else
         {
             cout << "Field is already in use. Please choose another field." << endl;
+            Input();
         }
     }
     else if (a == 6)
@@ -75,6 +80,7 @@ void Input()
         else
         {
             cout << "Field is already in use. Please choose another field." << endl;
+            Input();
         }
     }
     else if (a == 7)
@@ -84,6 +90,7 @@ void Input()
         else
         {
             cout << "Field is already in use. Please choose another field." << endl;
+            Input();
         }
     }
     else if (a == 8)
@@ -93,6 +100,7 @@ void Input()
         else
         {
             cout << "Field is already in use. Please choose another field." << endl;
+            Input();
         }
     }
     else if (a == 9)
@@ -102,6 +110,7 @@ void Input()
         else
         {
             cout << "Field is already in use. Please choose another field." << endl;
+            Input();
         }
     }
 
